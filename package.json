@@ -1,0 +1,22 @@
+{
+  "name": "nala-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programira/nala-api.git"
+  },
+  "author": "Mira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programira/nala-api/issues"
+  },
+  "homepage": "https://github.com/programira/nala-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
